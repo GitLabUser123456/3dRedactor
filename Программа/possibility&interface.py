@@ -1,4 +1,4 @@
-class ParticleSystemModule:
+class ParticleSystem:
     # Работа с частицами
     def create_particle_system():
         # Создание системы частиц для добавления эффектов в сцену
@@ -6,7 +6,7 @@ class ParticleSystemModule:
     def adjust_particle_behavior():
         # Настройка параметров поведения частиц
 
-class CustomToolsModule:
+class CustomTools:
     # Создание пользовательских инструментов
     def develop_custom_script():
         # Разработка собственных скриптов и плагинов для расширения функциональности
@@ -14,7 +14,7 @@ class CustomToolsModule:
     def integrate_external_plugins():
         # Интеграция сторонних плагинов в редактор
 
-class AudioModule:
+class Audio:
     # Управление аудиоэффектами
     def add_sound_effects():
         # Добавление звуковых эффектов к объектам
